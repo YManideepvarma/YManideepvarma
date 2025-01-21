@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YManideepvarma
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics with Python in NPTEL
+- 🌱 I’m currently learning Data Analytics with Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Here's the Ans ymanideep595@gmail.com
 
